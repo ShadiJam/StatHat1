@@ -1,9 +1,9 @@
-﻿body
+﻿body .logo
 {
-  background: url(https://www.dropbox.com/s/0tztin1b22bexkq/StatHatLogo.png?dl=0) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image: url(https://www.dropbox.com/s/mt0djtcw67rbl33/StatHatLogo.jpg?dl=0);
   background-size: cover;
-}
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #464646;
 }
